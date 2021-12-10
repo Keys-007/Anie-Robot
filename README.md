@@ -56,10 +56,10 @@ KEY = PORT | VALUE = 8443
 # NOTE DON'T FORGET TO ADD DATABASE ADD ON HEROKU POSGRES THEN TURN ON WORKER
 # Thanks To
 ```
-Pual Larson [ Maria Creator ]
+Paul Larsen [ Marie Creator ]
 Ayra Hikari [Fed V2 + Best Source Updater ]
 DENVIL [ Anie Mentioner @D3NVIL]
-AND MANY MORES
+AND MANY MORE
 ```
 
 # Report Bug
